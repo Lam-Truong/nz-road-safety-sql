@@ -13,10 +13,10 @@
 ## Dataset
 
 **Primary:** Waka Kotahi NZTA Crash Analysis System (CAS) open data — the official record of every crash reported to NZ Police since 2000. ~913,000 records. Free, publicly licensed.
-Source: https://opendata-nzta.opendata.arcgis.com/datasets/NZTA::crash-analysis-system-cas-data-1/about
+Source: [Link](https://opendata-nzta.opendata.arcgis.com/datasets/NZTA::crash-analysis-system-cas-data-1/about)
 
 **Supporting:** Stats NZ Subnational Population Estimates (used for Q3 per-capita analysis).
-Source: https://www.stats.govt.nz/information-releases/subnational-population-estimates-at-30-june-2024/
+Source: [Link](https://www.stats.govt.nz/information-releases/subnational-population-estimates-at-30-june-2024-2018-base/)
 
 See `download_data.sh` for download instructions. See *Data Notes* below for how the Stats NZ file was prepared.
 
